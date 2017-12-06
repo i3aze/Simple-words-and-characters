@@ -1,6 +1,7 @@
 This program counts words and characters in the whole program.
 It does not accept words longer than 20 characters 
 and does not accept double space
+The program is mace using C and it has two lines in C++, the ones for pausing the screen
 
 #include <stdio.h>
 #include <stdlib.h>

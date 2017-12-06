@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 #include <stdio.h>
-#include "iostream"
+#include "iostream"	// this is c++ library, I use it for pausing so I can see the result from the program
 
 void reverseInput();	// function that reverses every letter that you write
 
